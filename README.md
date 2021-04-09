@@ -1,1 +1,2 @@
-[！[Anurag的GitHub统计信息]（https://github-readme-stats.vercel.app/api?username=miracle-peak）]（https://github.com/anuraghazra/github-readme-stats）
+
+[![Finn's github stats](https://github-readme-stats.vercel.app/api?username=miracle-peak&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
